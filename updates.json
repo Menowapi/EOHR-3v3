@@ -2,6 +2,12 @@
     "base":  "EOH Update 2026-11-15 0300",
     "fullDownload":  "(ask Meno or Space23 for the full EOHR 3v3 download)",
     "updates":  [
-
+                    {
+                        "name":  "EOH Update 2026-11-15 1213",
+                        "url":  "https://github.com/Menowapi/EOHR-3v3/releases/download/u202611151213/EOH-Update-2026-11-15-1213.zip",
+                        "sha256":  "139DDB13742DC1409A8470FCDF6511A4D4527AFA18F0765D089A305D6385466B",
+                        "size":  10694353,
+                        "notes":  "New: UPDATES on the title screen: patch notes for every update, and UPDATE NOW to install new ones (the game restarts by itself).\nNew: An UPDATE AVAILABLE card shows on the title screen when a new update is out, and WHAT\u0027S NEW opens once after updating.\nNew: Your online name shows above your team\u0027s lifebars during online fights.\nNew: Quick Match asks for an online name the first time you use it (ONLINE menu or the training pause menu).\nNew: Quick Match on / off in the training pause menu: keep training while the game finds you an opponent.\nNew: WATCH \u003e REPLAY has its own EOH-style replay list, with player names, dates and a BACK row for controllers.\nChange: Online matches start as 3v3 Tag; Single and Tag 2 can still be picked.\nChange: LOBBY is now above QUICK MATCH in the ONLINE menu.\nChange: The online helper moved to its own \"EOH Online\" folder. Windows Firewall may ask about EOH Online.exe once: click Allow.\nChange: Online play needs the latest update; the game offers to update when you pick an online mode.\nFix: Stopping Quick Match works properly."
+                    }
                 ]
 }
