@@ -8,6 +8,13 @@
                         "sha256":  "139DDB13742DC1409A8470FCDF6511A4D4527AFA18F0765D089A305D6385466B",
                         "size":  10694353,
                         "notes":  "New: UPDATES on the title screen: patch notes for every update, and UPDATE NOW to install new ones (the game restarts by itself).\nNew: An UPDATE AVAILABLE card shows on the title screen when a new update is out, and WHAT\u0027S NEW opens once after updating.\nNew: Your online name shows above your team\u0027s lifebars during online fights.\nNew: Quick Match asks for an online name the first time you use it (ONLINE menu or the training pause menu).\nNew: Quick Match on / off in the training pause menu: keep training while the game finds you an opponent.\nNew: WATCH \u003e REPLAY has its own EOH-style replay list, with player names, dates and a BACK row for controllers.\nChange: Online matches start as 3v3 Tag; Single and Tag 2 can still be picked.\nChange: LOBBY is now above QUICK MATCH in the ONLINE menu.\nChange: The online helper moved to its own \"EOH Online\" folder. Windows Firewall may ask about EOH Online.exe once: click Allow.\nChange: Online play needs the latest update; the game offers to update when you pick an online mode.\nFix: Stopping Quick Match works properly."
+                    },
+                    {
+                        "name":  "EOH Update 2026-11-15 1654",
+                        "url":  "https://github.com/Menowapi/EOHR-3v3/releases/download/u202611151654/EOH-Update-2026-11-15-1654.zip",
+                        "sha256":  "DA1491B2870F24522E87795911576D40F25ECD444F7F505503E0FAA410D3FB81",
+                        "size":  11057441,
+                        "notes":  "New: Brand new title screen: MvC art behind spinning rings and floating lights, with the menus in a carousel along the bottom (Left / Right to move).\nNew: Options \u003e Video \u003e Title Screen picks the title art: Heroes, Collage, Assemble, X-Men, or Classic for the old title screen.\nChange: The online lobby has new MvC art behind every screen, and the lists use the full width.\nFix: After watching a replay, the game no longer gets stuck on the replay screen."
                     }
                 ]
 }
