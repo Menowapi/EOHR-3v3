@@ -15,6 +15,13 @@
                         "sha256":  "DA1491B2870F24522E87795911576D40F25ECD444F7F505503E0FAA410D3FB81",
                         "size":  11057441,
                         "notes":  "New: Brand new title screen: MvC art behind spinning rings and floating lights, with the menus in a carousel along the bottom (Left / Right to move).\nNew: Options \u003e Video \u003e Title Screen picks the title art: Heroes, Collage, Assemble, X-Men, or Classic for the old title screen.\nChange: The online lobby has new MvC art behind every screen, and the lists use the full width.\nFix: After watching a replay, the game no longer gets stuck on the replay screen."
+                    },
+                    {
+                        "name":  "EOH Update 2026-11-15 1916",
+                        "url":  "https://github.com/Menowapi/EOHR-3v3/releases/download/u202611151916/EOH-Update-2026-11-15-1916.zip",
+                        "sha256":  "079BDCCACAB951C7D458D6117B8965278FD8FCA494C16A6DFB95604B76DFE790",
+                        "size":  10784528,
+                        "notes":  "New: Title Screen: RANDOM shows a different title background each time you come back to the title screen (Options \u003e Video \u003e Title Screen).\nChange: Online lobby: new background art, placed so the characters are in view (no more fighters cut off at the edges)."
                     }
                 ]
 }
