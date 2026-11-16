@@ -22,6 +22,13 @@
                         "sha256":  "079BDCCACAB951C7D458D6117B8965278FD8FCA494C16A6DFB95604B76DFE790",
                         "size":  10784528,
                         "notes":  "New: Title Screen: RANDOM shows a different title background each time you come back to the title screen (Options \u003e Video \u003e Title Screen).\nChange: Online lobby: new background art, placed so the characters are in view (no more fighters cut off at the edges)."
+                    },
+                    {
+                        "name":  "EOH Update 2026-11-15 2237",
+                        "url":  "https://github.com/Menowapi/EOHR-3v3/releases/download/u202611152237/EOH-Update-2026-11-15-2237.zip",
+                        "sha256":  "B4A84D843448906207DB1F7049E074E1A1C32496DE3E0F7866D6CE92A1A96D1E",
+                        "size":  7078131,
+                        "notes":  "Change: Title Screen backgrounds are now Heroes and X-Men (plus Random and Classic): Collage and Assemble were removed because they repeated the UPDATES screen art.\nChange: The \"update needed to play online\" screen has new background art."
                     }
                 ]
 }
